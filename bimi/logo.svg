@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <title>OL3</title>
+  <rect x="0" y="0" width="512" height="512" fill="#222222"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="32" stroke-linecap="butt" stroke-linejoin="miter">
+    <rect x="101" y="202" width="68" height="108" rx="20" ry="20"/>
+    <path d="M227 186 L227 310 L301 310"/>
+    <path d="M343 202 L385 202 C399 202 411 214 411 228 L411 230 C411 244 399 256 385 256 C399 256 411 268 411 282 L411 284 C411 298 399 310 385 310 L343 310"/>
+  </g>
+</svg>
+ 
